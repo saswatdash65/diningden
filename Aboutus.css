@@ -1,0 +1,41 @@
+#abouthead {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("03-18-18-Restaurant-Team-Training-B.jpg");
+    background-size: cover;
+    background-position-y: 14%;
+    height: 70vh;
+}
+#abouthead h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3em;
+    color: white;
+    text-align: center;
+    background-color: #15161766;
+    width: 30rem;
+    height: 4rem;
+}
+
+#paras {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#paras img {
+    width: 55vw;
+}
+.aboutcontent {
+    width: 80vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+}
+
+#thanking {
+    width: 90vw;
+    margin: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-align: center;
+    font-size: xx-large;
+}
